@@ -1,6 +1,6 @@
 ﻿Console.Write("Введите число: ");
 double A = Convert.ToInt32(Console.ReadLine());
-Console.Write($"Для возведения {A} в степень, введние натуральное число: ");
+Console.Write($"Для возведения {A} в степень, введите натуральное число: ");
 double B = Convert.ToInt32(Console.ReadLine());
 if(B>0)
 {
